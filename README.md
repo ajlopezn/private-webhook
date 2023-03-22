@@ -1,4 +1,4 @@
-# private-webhook
+# How to call a private webhook from a Google Cloud Function
 Simple example to show how to invoke a private webhook from a Google Cloud Function. This is valid, for example, to redirect PubSub push messages to a private endpoint in scenarios were having a public endpoint is not valid.
 
 Some interesting documentation & tutorials tu complement this example are:
